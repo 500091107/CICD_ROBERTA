@@ -4,6 +4,7 @@ pipeline {
 
     environment {
 
+    
         REGISTRY_URL = '387731561914.dkr.ecr.eu-north-1.amazonaws.com'
     }
 
